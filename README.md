@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next Js, Nest Js<br><br>💬 Ask me about React, Node, Oracle<br><br>📫 How to reach me hussyn.nawaz@gmail.com<br><br>📄 Know about my experiences https://bit.ly/3t4oKyb
+🌱 I’m currently learning Salesforce CRM, Django, Software Testing, and Quality Assurance. <br><br>💬 Ask me about React, Node, Oracle, Next, Angular etc, Product Management, Project Management, Scrum etc. <br><br>📫 How to reach me hussyn.nawaz@gmail.com<br><br>📄 Know about my experiences https://bit.ly/3t4oKyb
 
 
 ## 🌐 Socials:
