@@ -9,6 +9,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter\&logoColor=white)](https://twitter.com/s_hussayn_nawaz)
 [![CodePen](https://img.shields.io/badge/CodePen-000000.svg?logo=codepen\&logoColor=white)](https://codepen.io/hussaynnawaz)
 [![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8.svg?logo=gumroad\&logoColor=white)](https://imhowzat.gumroad.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook\&logoColor=white)](https://facebook.com/sardarhussaynnawaz)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/19420046)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/user/s_hussayn_nawaz/)
+
 
 
 # 💻 Tech Stack:
